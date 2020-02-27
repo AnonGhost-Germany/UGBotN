@@ -1,0 +1,10 @@
+2020-02-27
+
+001_UGBotN_About.txt - About UGBotN - 2020-02-27
+002.txt - Index - 2020-02-27
+003.txt - Some basic Ideas - 2020-02-27
+004.txt - People we need - Not released, yet!
+005.txt - Development Structure - Not released, yet!
+006.txt - Platforms target - Not released, yet!
+007.txt - More details to the idea - Not released, yet!
+...

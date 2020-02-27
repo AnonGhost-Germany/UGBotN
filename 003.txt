@@ -1,0 +1,6 @@
+2020-02-27
+
+- Micro Modules based
+- Communication over Darknet
+- Peer-to-Peer based
+- C&C Server, anyway
