@@ -1,0 +1,11 @@
+We think we should later have Packet Mgr for UPDs, Modules, Dependencies, Version Mgmt...
+
+
+We not into thiy !!!
+We will dig! Will read!
+
+Maybe something very simple and small we can copy from... <OS> ???
+
+Any hlp, any suggestions welcome !!!
+
+T.
