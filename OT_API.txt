@@ -1,0 +1,26 @@
+OT_API.txt
+2020-03-04
+Tobias
+
+Maybe a bit OT (Off Topic), but here some thoughts I made for adding and triggering Modules by a TG (Telegram) Up-/Download Bot and as consequence to the idea of a general "Universal Up-/Download Bot/Server"...
+(Will move this later to the LVC Repos...)
+
+I'm no programmer of a modern, higher programming language, and so it's maybe total stupid... but I thought: KISS!
+
+KISS = Keep It Simple Stupid
+https://en.wikipedia.org/wiki/KISS_principle
+
+If I want to give as many people as possible the chance to write a module, it would be best to even make a module possible that is written with a script.
+
+So the consequence is, that the best API would be, to trigger the modules (all, or at least the scripts) just via a defined script. E.g. phenix.sh (risn at the end from the asses of all former servers).
+A trigger of phenix.sh could be a scheduler module. (If needed ones and now, so the task for scheduler would be "single" and "immidiatly".)
+And finally the module gives anything back, and the scheduler can hopefully handle it. (Simple standard error codes...)
+
+If status of module is needed, module can maybe triggered again and give anyhow the status back.)
+
+Maybe a bit simple thought and completely OT, but maybe also a small inspiration to design something useful.
+
+
+Just my thoughts...
+
+Greets, Tobias.
