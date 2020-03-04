@@ -1,0 +1,16 @@
+Thought a bit about Pluginy vs. Modules and think now that "Modules" would be the better term!
+
+The thing is, that it IMHO would lete4 be a good idea to the whole crowed into pices and set them DLL together, again.
+
+Then we can use body parts where we want & need! ^^ Yes, we are the right hand of <who ever> and real dev(ill)s! *rofl*
+
+The we can ship our parts as modules - plug-ins wouldn't fit!
+
+To be exact:
+- Body Part Modules
+- Bionic Modules ,..and...
+- E.g. Shuttle Modules
+
+...but to our Enterprise Shuttles later more... ^^
+
+T.
