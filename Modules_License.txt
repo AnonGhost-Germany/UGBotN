@@ -1,0 +1,11 @@
+As we giving at the end every module basically full root access, we should define some security principals, as else a module can easily e.g. expose us, destroy the complete swarm, or taking owner ship...
+
+In our Game Map developed so far in mind, there would be even some cases where we giving isage to not Ghosts and those parties may maybe want to run own modes...
+
+So suggestion would be, that the modules most get provided some time before as Open Source that a complete security audite can be made done...
+
+Each new module version should (expecting by high trusted sources) get a complete new audite!
+
+If modules are used from GH, we maybe find people who want (or already do) participate onto the ptoject and can do a audite in flow.
+
+Projects with very high reputation may naybe need no audite.

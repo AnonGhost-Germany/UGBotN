@@ -1,0 +1,56 @@
+O.K., really totally off topic to this RPG, but as a private concern from me, I put this file into the Repo, hope that the one, or other read and maybe spread it...
+
+As the one, or the other maybe know, I took in the past some time to dig into some docs, pages & blogs about TOR and I was a bit shocked for some reasons!
+I think everyone using TOR should as fast as pissible switch to the much more secure I2P!
+
+(I will try to publish anyhow later dome more details to my research...)
+
+The problem on I2P is, that it have still some "child problems", I will try to name in the following...
+
+For those who don't know much about I2P, here are the IMHO absolutly basic info about it:
+- I2P is much more secure then TOR!
+- Compared to TOR every I2P Client is not just a parasit using the infrastructure, every full client that fully conect makes a symbosis with the network, get one and finally - as traffic gets over him routed - improves the network and makes it better!
+
+So first problem is, that I2P is at the moment  not really fast!
+But - as written - it will get with every complete client better, so it's just a question of getting enough users to it, to speed it up!
+
+But to get all this users to support I2P in a short time (maybe 1 year ???) it needs a massive campaign!
+I think Anonymouse have thousands of techy people and if we all would support such a campain in the next year, pushing it as often as possible in each direction, I be pretty sure some thousand Anons will join in the next year and the I2P Project, Researchers and every User will notice this, because there will come up thousands of new clients that connect and the speed should drastically rise!
+
+So the problem is now, that such a campain have fast success, it should be done relatively professionals with maybe some good videos and this videos should get pushed through (if possible) big Anonymous Pages, Channels & Groups!
+
+The problem is, that I and the people I'm direct connected to are not able to do this!
+So there should really come help from anyone, anywhere!
+
+Next are some software problems I try to work from time to time on, I just want to mention those and be positive that if thousands of Anons join, some of those will be OSS Developers and help to fix them...
+
+Some problems to name:
+- One Windows they switched Installers and the first versions of the new installer even didn't installed on my test machine (wasn't able to handle the old install right), but I hadn't time to report those bugs.
+- The default I2P Client is in my test network nore on Windows, nore on Android able to identify the right routher, connects to the arong and is therefor not able to open a port with UPnP!
+- My Mobile Phone is a Samsung and Samsung seems to have some radical energy saving managment and even if it's turned completely off, it seems the app get "frotzen" seconds after put to background.
+
+On this point I maybe have to add, too, that there exist 2 full client implementations, at the moment.
+The more popular I2P implementation done in Jave and further the not so famous I2PD implementation done in C++.
+
+I think to get a hugh amount of clients together to significantly improve the network, every Anon should run the clients on as many davices as possible!
+Especially on Mobile Phones, I think!
+The reason for this is very simple:
+More normal user turn on there PC for work, want complete power over work and then turn it off, again.
+Mobile Device on the other side running 24/7 and have a lot of standby time...
+
+No matter if I2P, or I2PD, in both implementations are nearly no options to fine tune usage of recources!
+So IMHO would be ideal, if the clients e.g. making no traffic if they have connect to internet via cell towers and using during day time and when the user work nearly no recources, while nights, if they detect they are in the home wifi and plugged in, they can go into "power mode" and spend recources for improvment of the network as much as possible!
+
+Next problem is, that the I2P Network have basicly no exit nodes (called "outproxies")...
+There exist a plugin for the I2P Client that brings this feature (so dependency is at the moment full I2P Client installed, then the plugin as next module) and acts even as a bridge to the TOR Network, but this plugin handels the briging local and don't give this feature forward to the network!
+Also there is no implementation for I2PD, yet!
+I think perfect would be, if some developers with very good reputation talk to the I2P Dev Team and suggest to include this plugin in further shipment of the cluent... and not only this, even include some settings to tun this feature on and off by some definded settings/rules.
+I think that every Anon would e.g. take the risk to forward traffic over night for one hour!
+If this would happen, then the network wouldn't have just one outproxy, always on the recource limits, the network would have thousands of short living exit nodes to cleanet and bridgets to TOR at ones !!!
+
+So it's really still a lot to do !!!
+But if we would work hard, I think a very big progress should be visible within the next year!
+
+Tobias.
+
+P.S., fun fact: There exist a project to put a blockcain on TOR and I2P naming itself Loki Network...

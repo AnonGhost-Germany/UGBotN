@@ -1,0 +1,7 @@
+Would be nice if we can etablish some general standards.
+
+Suggested standards are:
+- Default language is in English;
+- Development (especially source code) should be in English, too;
+- Variable, Function, API Names should be in English, too;
+- Used letters (especially file names) should be in Latin.
